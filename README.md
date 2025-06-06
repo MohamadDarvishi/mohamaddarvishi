@@ -4,7 +4,7 @@
 ## Projects in progress
 
 ### Arad 2.0v
-<code>___________---------</code> 50% The remaining time is unknown
+<code>________________----</code> 80% The remaining time is unknown
 
 ### Hayyan(Unixel 2.0v)
 <code>______________------</code> 60% The remaining time is unknown
