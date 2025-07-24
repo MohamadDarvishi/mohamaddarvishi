@@ -3,8 +3,14 @@
 
 ## Projects in progress
 
+### AzadFont
+<code>__------------------</code> 10% The remaining time is unknown
+
 ### Arad 2.0v
 <code>________________----</code> 80% The remaining time is unknown
+
+### Estedad Mad 2.0v
+<code>_-------------------</code> 5% The remaining time is unknown
 
 ### Hayyan(Unixel 2.0v)
 <code>______________------</code> 60% The remaining time is unknown
