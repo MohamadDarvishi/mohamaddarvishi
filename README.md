@@ -3,9 +3,6 @@
 
 ## Projects in progress
 
-### AzadFont
-<code>__------------------</code> 10% The remaining time is unknown
-
 ### Arad 2.0v
 <code>________________----</code> 80% The remaining time is unknown
 
