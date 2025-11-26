@@ -4,7 +4,7 @@
 ## Projects in progress
 
 ### Arad 2.0v
-<code>__________________--</code> 90% The remaining time is unknown
+<code>____________________</code> 100% This is published
 
 ### Estedad Mad 2.0v
 <code>_-------------------</code> 5% The remaining time is unknown
