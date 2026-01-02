@@ -3,11 +3,4 @@
 
 ## Projects in progress
 
-### Arad 2.0v
-<code>____________________</code> 100% This is published
-
-### Estedad Mad 2.0v
-<code>_-------------------</code> 5% The remaining time is unknown
-
-### Hayyan(Unixel 2.0v)
-<code>______________------</code> 60% The remaining time is unknown
+### I'm working on [Arad project](https://github.com/MohamadDarvishi/Arad)
